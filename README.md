@@ -1,4 +1,4 @@
-# 🌸 [LEMUEL]'s Pookalam 2025 🌸
+# 🌸 LEMUEL's Pookalam 2025 🌸
 
 ## 👨‍💻 About Me
 - **Name:** [LEMUEL M B]
