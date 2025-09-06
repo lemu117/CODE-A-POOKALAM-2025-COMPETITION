@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - **Name:** [LEMUEL M B]
 - **Institution/Company:** [MBCCET PEERMADE]
-- **GitHub:** [@your-username](https://github.com/lemu117)
+- **GitHub:** [the lemuel](https://github.com/lemu117)
 - **Programming Language Used:** [HTML,CSS,JAVASCRIPT]
 
 ## 🎨 My Pookalam
